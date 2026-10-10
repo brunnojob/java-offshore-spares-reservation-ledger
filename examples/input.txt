@@ -1,0 +1,5 @@
+e1,RECEIVE,seal-kit,-,10
+e2,RESERVE,seal-kit,job41,3
+e3,RESERVE,seal-kit,job42,2
+e4,ISSUE,seal-kit,job41,3
+e5,RELEASE,seal-kit,job42,2
