@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repository": "brunnojob/java-offshore-spares-reservation-ledger",
-  "source_commit": "d488b9c15fe80f1fa99632ec28b3017c96f5ecd0",
-  "generated_at": "2026-10-10T02:35:53.368885+00:00",
-  "run_url": "https://github.com/brunnojob/java-offshore-spares-reservation-ledger/actions/runs/38017535776",
+  "source_commit": "27c25570c1c79200467420c80ab2d8f8e765a997",
+  "generated_at": "2026-10-10T02:44:07.379742+00:00",
+  "run_url": "https://github.com/brunnojob/java-offshore-spares-reservation-ledger/actions/runs/38018031482",
   "inputs_sha256": {
     ".proof/scenarios.json": "9062ef6b54e19a49ae3599af3c9a24ab4d436f73670530a32bcfdca3b0f358ee",
     "examples/input.txt": "eb85c3ccc0114a3fbfe0a0a7c232e0c8eebfb227dc96e66ab0bdc0ea34d845b1"
@@ -23,7 +23,7 @@
       "exit": 0,
       "expected_exit": 0,
       "passed": true,
-      "seconds": 3.21,
+      "seconds": 2.809,
       "output": "tests passed\nseal-kit,on_hand=7,reserved=0,available=7\n",
       "output_sha256": "5f7cb122a8948f71f732102d1f1b156b2c64d03b8229ce26e009ed68a319a425"
     },
@@ -37,7 +37,7 @@
       "exit": 0,
       "expected_exit": 0,
       "passed": true,
-      "seconds": 0.101,
+      "seconds": 0.051,
       "output": "seal-kit,on_hand=7,reserved=0,available=7\n",
       "output_sha256": "77f7089a093b626d4788b1103b8ebea0fac17f4e8f9e1d81285cb8ab23216410"
     },
