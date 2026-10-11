@@ -1,5 +1,7 @@
 # java-offshore-spares-reservation-ledger
 
+[View execution evidence](https://brunnojob.github.io/devstart-lab/proofs/java-offshore-spares-reservation-ledger/)
+
 Replay idempotent stock reservations, releases and issues while preventing negative spare inventory.
 
 ```sh
